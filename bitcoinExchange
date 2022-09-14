@@ -3,5 +3,5 @@ return(`What is Bitcoin price today?
 ${bitcoinRate}
 How much $ do you have?
 ${amountDollar}
-You can buy ${amountDollar/bitcoinRate})
+You can buy ${amountDollar/bitcoinRate}`)
 }
